@@ -1,0 +1,8 @@
+#container {
+    background: linear-gradient(90deg, rgba(177,241,254,1) 35%, rgba(17,139,181,1) 100%);
+    margin-bottom : 15px;
+    
+}
+#sidebar {
+    margin:0
+}

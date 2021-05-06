@@ -1,0 +1,14 @@
+#newBtn {
+    background-color: rgba(17,139,181,1);
+    color: white;
+}
+#searchMenu {
+    background-color: rgba(17,139,181,0.15);
+    float: left;
+    /* position: absolute;
+    top: 0;
+    left: 0; */width: 100vw;
+}
+#menuGrid {
+    width: 100vw;
+}
